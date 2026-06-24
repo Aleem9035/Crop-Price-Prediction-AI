@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+sqlalchemy
+psycopg2-binary
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+chromadb
+transformers
+torch
