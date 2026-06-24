@@ -3,11 +3,12 @@ uvicorn
 pandas
 sqlalchemy
 psycopg2-binary
-langchain
-langchain-community
-langchain-chroma
-langchain-huggingface
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.38
+langchain-chroma==0.1.4
+langchain-huggingface==0.0.3
 sentence-transformers
-chromadb
+chromadb==0.4.24
 transformers
 torch
